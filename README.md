@@ -1,5 +1,5 @@
 # Ozen's personal website (2015)
-I remade my personal webpage in 2015. I liked listening to EDM at that time and knew Steve Aoki.
+I remade my personal webpage in 2015. I liked listening to EDM at that time and knew DJ Steve Aoki. 
 Use his film in tomorrowland as the theme of the web.
 
 ## Highlights
